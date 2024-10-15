@@ -1,0 +1,10 @@
+
+model_dir : "models"
+data_dir : "data"
+results_dir : "results"
+
+location_model_name : "best_location.pt"
+digit_model_name : "best_digit.pt"
+
+conf : 0.5
+iou : 0.7
